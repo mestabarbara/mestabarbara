@@ -23,7 +23,7 @@ A responsive social media web app that allows users to post, like, and manage ph
 - Popup modals and form validation  
 - Fully responsive layout for mobile and desktop  
 
-#### ☕ [CoffeeShop Website](https://github.com/mestabarbara/coffeeshop](https://github.com/mestabarbara/se_project_coffeeshop)
+#### ☕ [CoffeeShop Website](https://github.com/mestabarbara/se_project_coffeeshop)
 A responsive front-end website that showcases a modern café brand.  
 **Tech:** HTML, CSS, JavaScript  
 **Features:** Responsive layout, smooth animations, and reusable components.  
